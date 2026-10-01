@@ -1,0 +1,62 @@
+[
+    {
+        "categoria": "Operación",
+        "app": "Alarmas SCADA",
+        "descripcion": "Consulta y seguimiento de alarmas provenientes de SCADA.",
+        "url": "https://autoqlik.epm.com.co/sense/app/ddc6499e-3751-4a90-9add-155ada0fcc97/overview"
+    },
+    {
+        "categoria": "Operación",
+        "app": "Eventos cerrados SP7",
+        "descripcion": "Eventos cerrados de SP7: consulta sus maniobras, tareas, solicitudes, OT's, bitácoras y más.",
+        "url": "https://autoqlik.epm.com.co/sense/app/ed9608f3-b6fb-4a23-b7db-0f20c915dfd1/overview"
+    },
+    {
+        "categoria": "Operación",
+        "app": "Eventos vigentes SP7",
+        "descripcion": "Eventos abiertos de SP7: consulta sus maniobras, tareas, solicitudes, OT's, bitácoras y más.",
+        "url": "https://autoqlik.epm.com.co/sense/app/550d4176-d086-4667-b1b6-d65fe232eb3c/overview"
+    },
+    {
+        "categoria": "Indicadores",
+        "app": "I.C.S. Gerencia T&D Energía",
+        "descripcion": "Información e indicadores de la Gerencia T&D Energía.",
+        "url": "https://autoqlik.epm.com.co/sense/app/af5b4877-9aa8-4e66-ad94-bc73a94c397b/overview"
+    },
+    {
+        "categoria": "Operación",
+        "app": "Seguimiento actualización MDE",
+        "descripcion": "Seguimiento de OT's - SS y gestión de la actualización del MDE.",
+        "url": "https://autoqlik.epm.com.co/sense/app/aaa31d3b-89c5-464c-b817-3e8e39311a3f/overview"
+    },
+    {
+        "categoria": "Operación",
+        "app": "Informe Trabajos UGI T&D",
+        "descripcion": "Gestión y seguimiento de las OT's por grupo responsable.",
+        "url": "https://autoqlik.epm.com.co/sense/app/e501d4e7-0a8b-46a0-8e38-cb2cb4a317bb/sheet/6bf7740b-c5c6-47ce-afbf-25ba90eead4e/state/analysis"
+    },
+    {
+        "categoria": "Calidad de Datos",
+        "app": "Indicador de Calidad de Datos de Transformadores",
+        "descripcion": "Monitoreo de la calidad de la información de transformadores en MDE, MAXIMO y GDE, mediante indicadores de completitud, validez, consistencia y duplicidad.",
+        "url": "https://autoqlik.epm.com.co/sense/app/957a7b44-05e5-4d34-90d6-52deb9541293/overview"
+    },
+    {
+        "categoria": "Calidad de Datos",
+        "app": "Calidad de datos de elementos de la red eléctrica del MDE",
+        "descripcion": "Seguimiento de calidad de datos de elementos de la red eléctrica.",
+        "url": "https://autoqlik.epm.com.co/sense/app/3642bac5-1327-45a2-81b5-97ba38a83f13/sheet/AnvsU/state/analysis"
+    },
+    {
+        "categoria": "Indicadores",
+        "app": "SAIDI y SAIFI por Región, Municipio y Circuito - Acumulado",
+        "descripcion": "Consulta de indicadores SAIDI y SAIFI.",
+        "url": "https://autoqlik.epm.com.co/sense/app/9a1b679d-fd9c-4404-82ab-8e12db4b7846/overview"
+    },
+    {
+        "categoria": "Indicadores",
+        "app": "Información Subgerencia Operaciones Sistemas",
+        "descripcion": "Consulta de información de la Subgerencia de Operaciones Sistemas, actual e histórica.",
+        "url": "https://autoqlik.epm.com.co/sense/app/1de10ee0-1789-4436-8aeb-264efe991a24/overview"
+    }
+]
